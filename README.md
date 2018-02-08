@@ -39,6 +39,9 @@
 + **[Testing-4](https://www.youtube.com/playlist?list=PLU-TUGRFxOHgGzXph44nkanfGFz7c6Ztm)**: Оформление багов.  
 + **[Testing-5](https://www.youtube.com/playlist?list=PLU-TUGRFxOHh5XXwxXRT8gR9YcUS42cw7)**: Методы проектирования тестов.  
 + **[Testing-N](https://www.youtube.com/playlist?list=PLU-TUGRFxOHhSlreTx-IfjruAaGSni5u8)**: Боекомплект тестировщика.  
++ **[Паттерны и антипаттерны обоснования багов](https://www.youtube.com/watch?v=Iju5EKXNjF0&feature=youtu.be)**  
++ **[Тест-анализ на основе состояний и переходов](https://www.youtube.com/watch?time_continue=1664&v=8H9HgjrwQHA)**  
++ **[Тест-дизайн на примере треугольника](https://www.youtube.com/watch?v=4PgrF-n80KE)**  
 
 ---------------------------------------------------------
 ## Подкасты
