@@ -15,6 +15,19 @@
 ## Статьи
 
 + **[Классификация видов тестирования](https://habrahabr.ru/company/npo-comp/blog/223833/)**
++ **[Позитивное и негативное тестирование](http://okiseleva.blogspot.ru/2014/02/blog-post_10.html)**
++ **[Что такое тест-кейс и как его писать](http://okiseleva.blogspot.ru/2014/08/blog-post.html)**
++ **[Классы эквивалентности: будни Золушки](http://okiseleva.blogspot.ru/2015/07/blog-post_87.html)**
++ **[Класс эквивалентности «Ноль-не ноль»](http://okiseleva.blogspot.ru/2016/12/blog-post_15.html)**
++ **[Классы эквивалентности для строки, которая обозначает число](http://software-testing.ru/library/testing/functional-testing/1238-number-string-subdomains)**
++ **[Как заводить задачи в баг-трекер](http://okiseleva.blogspot.ru/2015/02/blog-post_19.html)**
++ **[Не пишите в баге «Ввести 6,9»](http://okiseleva.blogspot.ru/2016/06/69.html)**
++ **[Так ли уж сложно описывать баги - понятно?](http://okiseleva.blogspot.ru/2012/12/blog-post_14.html)**
++ **[Как искать баги — исследовательские туры Виттакера](http://okiseleva.blogspot.ru/2015/01/blog-post_64.html)**
++ **[Шаблон бага](http://okiseleva.blogspot.ru/2015/05/blog-post_25.html)**
++ **[Шаблон улучшения](http://okiseleva.blogspot.ru/2015/10/blog-post_16.html)**
++ **[Как составлять вариант использования](http://okiseleva.blogspot.ru/2015/11/blog-post_86.html)**
++ **[Сообщения об ошибках — тоже документация, тестируйте их](http://okiseleva.blogspot.ru/2015/06/blog-post_8.html)**
 
 ---------------------------------------------------------
 ## Видео
