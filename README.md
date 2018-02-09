@@ -1,4 +1,4 @@
-# Список русскоязычных ресурсов на тему QA
+# Список ресурсов на тему QA
 
 ---------------------------------------------------------
 
@@ -48,3 +48,13 @@
 
 + **[Radio QA](https://itunes.apple.com/podcast/radio-qa/id1021236121?mt=2)**: [radio-qa.com](http://radio-qa.com/)
 + **[QA Guild Podcast](https://soundcloud.com/user-986844915)**: [automation-remarks.com/qaguild](http://automation-remarks.com/qaguild/)
+
+---------------------------------------------------------
+## Инструменты  
+
++ **[Багред](http://bugred.ru/)**: Багред — сервис для улучшения названия бага.  
+
+---------------------------------------------------------
+## Общение  
+
++ **[QA mobile community](https://t.me/joinchat/BExoyUPkeR6xh0873Vb56Q)**: Чат про мобильное тестирование
