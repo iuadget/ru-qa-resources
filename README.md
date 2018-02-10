@@ -73,3 +73,9 @@
 + **[QA mobile community](https://t.me/joinchat/BExoyUPkeR6xh0873Vb56Q)**: Чат про мобильное тестирование
 + **[QAGuild](https://qaguild-slack.herokuapp.com/)**: Slack-чат общества QAGuild
 + **[SoftwareTesters](https://software-testers.herokuapp.com/)** Разговоры о general подходах в тестировании.  
+
+---------------------------------------------------------
+## Блоги  
+
++ **[Жизнь - это движение! А тестирование - это жизнь :)](http://okiseleva.blogspot.ru/)**
++ **[QA — грамотно](https://testitquickly.com/)**
