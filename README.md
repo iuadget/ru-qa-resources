@@ -34,6 +34,8 @@
 + **[Певца попросят спеть](https://testitquickly.com/2010/10/15/ratiunea-cheama-ajutoare/)**  
 + **[Распространенные ошибки при составлении баг-репортов](https://habrahabr.ru/post/156069/)**  
 + **[Как эффективно сообщать об ошибках](https://www.chiark.greenend.org.uk/~sgtatham/bugs-ru.html)**  
++ **[Pairwise testing with PICT](http://www.freality.info/itblog/?p=199)**
++ **[Что такое Pairwise Testing, и с чем его едят](http://qcthoughtsaloud.blogspot.ru/2010/06/pairwise-testing.html)**
 
 ---------------------------------------------------------
 ## Видео
