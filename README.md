@@ -28,6 +28,12 @@
 + **[Шаблон улучшения](http://okiseleva.blogspot.ru/2015/10/blog-post_16.html)**
 + **[Как составлять вариант использования](http://okiseleva.blogspot.ru/2015/11/blog-post_86.html)**
 + **[Сообщения об ошибках — тоже документация, тестируйте их](http://okiseleva.blogspot.ru/2015/06/blog-post_8.html)**
++ **[Работа над ошибками малой кровью](http://russian.joelonsoftware.com/Articles/PainlessBugTracking.html)**  
++ **[TOP 13 ошибок тестировщиков. Часть I. Требования, Тест-кейсы](http://www.software-testing.ru/library/5-testing/66-top-13----i----)**  
++ **[TOP 13 ошибок тестировщиков. Часть II. Управление ошибками](http://www.software-testing.ru/library/8-bug-tracking/65-top-13-ii-)**  
++ **[Певца попросят спеть](https://testitquickly.com/2010/10/15/ratiunea-cheama-ajutoare/)**  
++ **[Распространенные ошибки при составлении баг-репортов](https://habrahabr.ru/post/156069/)**  
++ **[Как эффективно сообщать об ошибках](https://www.chiark.greenend.org.uk/~sgtatham/bugs-ru.html)**  
 
 ---------------------------------------------------------
 ## Видео
