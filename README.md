@@ -48,6 +48,7 @@
 + **[Паттерны и антипаттерны обоснования багов](https://www.youtube.com/watch?v=Iju5EKXNjF0&feature=youtu.be)**  
 + **[Тест-анализ на основе состояний и переходов](https://www.youtube.com/watch?time_continue=1664&v=8H9HgjrwQHA)**  
 + **[Тест-дизайн на примере треугольника](https://www.youtube.com/watch?v=4PgrF-n80KE)**  
++ **[Грамотная работа с дефект-трекером — путь к успеху](https://www.youtube.com/watch?v=6q9Uc9oFtoc)**
 
 ---------------------------------------------------------
 ## Подкасты
