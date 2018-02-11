@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------
 
-![](/bugs.jpg)
+![У багов тоже есть чувства](/bugs.jpg)
 
 ---------------------------------------------------------
 
@@ -12,6 +12,7 @@
 + **[Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах](http://vk.com/doc-46904574_145750482?dl=28aabb49a7217e1962)**: Книга целиком базируется на личном опыте освоения — с нуля — профессии тестировщика и многолетней работы автора в этом качестве в интернет-компаниях США.
 
 ---------------------------------------------------------
+
 ## Статьи
 
 + **[Классификация видов тестирования](https://habrahabr.ru/company/npo-comp/blog/223833/)**
@@ -38,6 +39,7 @@
 + **[Что такое Pairwise Testing, и с чем его едят](http://qcthoughtsaloud.blogspot.ru/2010/06/pairwise-testing.html)**
 
 ---------------------------------------------------------
+
 ## Видео
 
 + **[Качество и Тестирование ПО (весна 2015)](https://www.youtube.com/playlist?list=PLrCZzMib1e9pDKLsabJYuODdVJrHYc4Jd)**: Курс "Методы обеспечения качества и тестирования web-приложений".
@@ -54,12 +56,14 @@
 + **[Автотесты на уровне API для Java приложений](https://www.youtube.com/watch?v=PSRrxrCPPDU&feature=youtu.be)**
 
 ---------------------------------------------------------
+
 ## Подкасты
 
 + **[Radio QA](https://itunes.apple.com/podcast/radio-qa/id1021236121?mt=2)**: [radio-qa.com](http://radio-qa.com/)
-+ **[QA Guild Podcast](https://soundcloud.com/user-986844915)**: [automation-remarks.com/qaguild](http://automation-remarks.com/qaguild/)
++ **[QA Guild Podcast](https://soundcloud.com/user-986844915)**: [automation-remarks.com](http://automation-remarks.com/podcast/)
 
 ---------------------------------------------------------
+
 ## Инструменты
 
 + **[Багред](http://bugred.ru/)**: Сервис для улучшения названия бага.
@@ -78,6 +82,7 @@
 + **[Калькулятор ИНН-КПП](https://mobobe.com/wp-uploads/inn_ogrn/inn_ogrn.htm)**
 
 ---------------------------------------------------------
+
 ## Чаты
 
 + **[QA mobile community](https://t.me/joinchat/BExoyUPkeR6xh0873Vb56Q)**: Чат про мобильное тестирование.
@@ -85,7 +90,9 @@
 + **[SoftwareTesters](https://software-testers.herokuapp.com/)** Разговоры о general подходах в тестировании.
 
 ---------------------------------------------------------
-## Блоги
+
+## Блоги и каналы
 
 + **[Жизнь - это движение! А тестирование - это жизнь :)](http://okiseleva.blogspot.ru/)**
 + **[QA — грамотно](https://testitquickly.com/)**
++ **[automation-remarks.com](https://t.me/automation_remarks)**
