@@ -41,6 +41,10 @@
 + **[Pairwise testing with PICT](http://www.freality.info/itblog/?p=199)**
 + **[Что такое Pairwise Testing, и с чем его едят](http://qcthoughtsaloud.blogspot.ru/2010/06/pairwise-testing.html)**
 + **[Создание плана исследовательского тестирования: картография ПО](http://software-testing.ru/library/testing/other-testing/2701-building-exploratory-test-plan)**
++ **[Ничего не забыть: универсальная схема для тестирования веб-приложений](https://dou.ua/lenta/articles/scheme-for-qa/)**
++ **[Что делать когда нет времени на тестирование: лайф-хаки и практики](http://www.software-testing.ru/library/around-testing/processes/2728-what-to-do-when-there-is-no-time-for-testing)**
++ **[Это не та карта, которую я имел в виду: значение, неточности и таксономия визуальных моделей тестирования, часть 1](http://www.software-testing.ru/library/testing/general-testing/2726-map)**
++ **[Это не та карта, которую я имел в виду: значение, неточности и таксономия визуальных моделей тестирования, часть 2](http://www.software-testing.ru/library/testing/general-testing/2727-map-1)**
 
 ---------------------------------------------------------
 
