@@ -62,6 +62,9 @@
 + **[Тест-дизайн на примере треугольника](https://www.youtube.com/watch?v=4PgrF-n80KE)**
 + **[Грамотная работа с дефект-трекером — путь к успеху](https://www.youtube.com/watch?v=6q9Uc9oFtoc)**
 + **[Автотесты на уровне API для Java приложений](https://www.youtube.com/watch?v=PSRrxrCPPDU&feature=youtu.be)**
++ **[Heisenbug 2016 Moscow](https://www.youtube.com/playlist?list=PLsVTVVvrKX9tLKqDQ2Ab8lBgWnTc_iHRN)**
++ **[Heisenbug 2017 Piter](https://www.youtube.com/playlist?list=PLsVTVVvrKX9t7a0_KpweUSfEt7XeRDzM-)**
++ **[TOП-10. Разбор лучших докладов в свободном доступе. Heisenbug 2017 Moscow](https://habrahabr.ru/company/jugru/blog/349144/)**
 
 ---------------------------------------------------------
 
