@@ -65,6 +65,7 @@
 + **[Heisenbug 2016 Moscow](https://www.youtube.com/playlist?list=PLsVTVVvrKX9tLKqDQ2Ab8lBgWnTc_iHRN)**
 + **[Heisenbug 2017 Piter](https://www.youtube.com/playlist?list=PLsVTVVvrKX9t7a0_KpweUSfEt7XeRDzM-)**
 + **[TOП-10. Разбор лучших докладов в свободном доступе. Heisenbug 2017 Moscow](https://habrahabr.ru/company/jugru/blog/349144/)**
++ **[QA Fest 2017](https://www.youtube.com/playlist?list=PLuOBDBq7MW73roEVm9vHTW24pUS4jTQ1Q)**
 
 ---------------------------------------------------------
 
