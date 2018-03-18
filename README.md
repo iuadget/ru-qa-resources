@@ -100,6 +100,7 @@
 + **[QA mobile community](https://t.me/joinchat/BExoyUPkeR6xh0873Vb56Q)**: Чат про мобильное тестирование.
 + **[QAGuild](https://qaguild-slack.herokuapp.com/)**: Slack-чат общества QAGuild.
 + **[SoftwareTesters](https://software-testers.herokuapp.com/)** Разговоры о general подходах в тестировании.
++ **[automated-testing.info](https://t.me/atinfo)** at.info - самое большое, активное и качественное сообщество автоматизаторов, которое делится опытом, навыками и экспертизой, а не просто потребляет информацию и ничего не хочет вносить взамен.
 
 ---------------------------------------------------------
 
