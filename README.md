@@ -66,6 +66,7 @@
 + **[Heisenbug 2017 Piter](https://www.youtube.com/playlist?list=PLsVTVVvrKX9t7a0_KpweUSfEt7XeRDzM-)**
 + **[TOП-10. Разбор лучших докладов в свободном доступе. Heisenbug 2017 Moscow](https://habrahabr.ru/company/jugru/blog/349144/)**
 + **[QA Fest 2017](https://www.youtube.com/playlist?list=PLuOBDBq7MW73roEVm9vHTW24pUS4jTQ1Q)**
++ **[SELENIUM CAMP 2018](https://www.youtube.com/playlist?list=PLa7q-VITePQVeaNc1fm-Ue7fa9XOaGKpt)**
 
 ---------------------------------------------------------
 
