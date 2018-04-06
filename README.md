@@ -88,6 +88,8 @@
 + **[FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download/)**: Программа для создание интеллект-карт.
 + **[XMind](http://www.xmind.net/download/)**: Программа для создание интеллект-карт.
 + **[Joxi](http://joxi.ru/download/)**: Программа для создание скриншотов.
++ **[Jing](https://www.techsmith.com/download/jing/)**: Программа для создание скриншотов.
++ **[Recordit](http://www.recordit.co/)**: Программа для быстрой записи анимированных скринкастов.
 + **[Fiddler](https://www.telerik.com/download/fiddler)**: Прокси, который работает с трафиком между вашим компьютером и удаленным сервером, и позволяет просматривать и менять его.
 + **[Insomnia](https://insomnia.rest/download/)**: REST API клиент.
 + **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**: Программный продукт виртуализации для операционных систем Microsoft Windows, Linux, FreeBSD, macOS, Solaris/OpenSolaris, ReactOS, DOS и других.
