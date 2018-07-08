@@ -45,6 +45,8 @@
 + **[Что делать когда нет времени на тестирование: лайф-хаки и практики](http://www.software-testing.ru/library/around-testing/processes/2728-what-to-do-when-there-is-no-time-for-testing)**
 + **[Это не та карта, которую я имел в виду: значение, неточности и таксономия визуальных моделей тестирования, часть 1](http://www.software-testing.ru/library/testing/general-testing/2726-map)**
 + **[Это не та карта, которую я имел в виду: значение, неточности и таксономия визуальных моделей тестирования, часть 2](http://www.software-testing.ru/library/testing/general-testing/2727-map-1)**
++ **[Пирамида тестов на практике](https://habr.com/post/358950/)**
++ **[Антипаттерны тестирования ПО](https://habr.com/post/358178/)**
 
 ---------------------------------------------------------
 
