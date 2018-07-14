@@ -117,3 +117,4 @@
 + **[Жизнь - это движение! А тестирование - это жизнь :)](http://okiseleva.blogspot.ru/)**
 + **[QA — грамотно](https://testitquickly.com/)**
 + **[automation-remarks.com](https://t.me/automation_remarks)**
++ **[ОНЛАЙН КУРСЫ ТЕСТИРОВЩИКОВ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ - 2018](https://www.portnov.com/2018)**
