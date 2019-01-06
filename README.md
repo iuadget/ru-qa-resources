@@ -47,6 +47,7 @@
 + **[Это не та карта, которую я имел в виду: значение, неточности и таксономия визуальных моделей тестирования, часть 2](http://www.software-testing.ru/library/testing/general-testing/2727-map-1)**
 + **[Пирамида тестов на практике](https://habr.com/post/358950/)**
 + **[Антипаттерны тестирования ПО](https://habr.com/post/358178/)**
++ **[TOП-10. Разбор лучших докладов в свободном доступе. Heisenbug 2017 Moscow](https://habrahabr.ru/company/jugru/blog/349144/)**
 
 ---------------------------------------------------------
 
@@ -67,11 +68,10 @@
 + **[Heisenbug 2016 Moscow](https://www.youtube.com/playlist?list=PLsVTVVvrKX9tLKqDQ2Ab8lBgWnTc_iHRN)**
 + **[Heisenbug 2017 Piter](https://www.youtube.com/playlist?list=PLsVTVVvrKX9t7a0_KpweUSfEt7XeRDzM-)**
 + **[Heisenbug 2017 Moscow: лучшее](https://www.youtube.com/playlist?list=PLsVTVVvrKX9tkmqfzDfdzv4I5NlPZYD6P)**
-+ **[TOП-10. Разбор лучших докладов в свободном доступе. Heisenbug 2017 Moscow](https://habrahabr.ru/company/jugru/blog/349144/)**
 + **[QA Fest 2017](https://www.youtube.com/playlist?list=PLuOBDBq7MW73roEVm9vHTW24pUS4jTQ1Q)**
 + **[SELENIUM CAMP 2018](https://www.youtube.com/playlist?list=PLa7q-VITePQVeaNc1fm-Ue7fa9XOaGKpt)**
 + **[QA | Тестирование ПО](https://www.youtube.com/playlist?list=PLuEo4W0EBxtXzWG6fAy6uQ1BtdYK-w8yN)**
-+ **[DevTube — open source-агрегатор видеоматериалов для разработчиков](https://dev.tube)**
++ **[QA Fest 2018](https://www.youtube.com/playlist?list=PLuOBDBq7MW73zWBY2FX2SQXyOCJWFDq2U)**
 
 ---------------------------------------------------------
 
@@ -119,3 +119,4 @@
 + **[QA — грамотно](https://testitquickly.com/)**
 + **[automation-remarks.com](https://t.me/automation_remarks)**
 + **[ОНЛАЙН КУРСЫ ТЕСТИРОВЩИКОВ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ - 2018](https://www.portnov.com/2018)**
++ **[DevTube — open source-агрегатор видеоматериалов для разработчиков](https://dev.tube)**
