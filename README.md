@@ -69,9 +69,11 @@
 + **[Heisenbug 2017 Piter](https://www.youtube.com/playlist?list=PLsVTVVvrKX9t7a0_KpweUSfEt7XeRDzM-)**
 + **[Heisenbug 2017 Moscow: лучшее](https://www.youtube.com/playlist?list=PLsVTVVvrKX9tkmqfzDfdzv4I5NlPZYD6P)**
 + **[QA Fest 2017](https://www.youtube.com/playlist?list=PLuOBDBq7MW73roEVm9vHTW24pUS4jTQ1Q)**
++ **[QA Fest 2018](https://www.youtube.com/playlist?list=PLuOBDBq7MW73zWBY2FX2SQXyOCJWFDq2U)**
 + **[SELENIUM CAMP 2018](https://www.youtube.com/playlist?list=PLa7q-VITePQVeaNc1fm-Ue7fa9XOaGKpt)**
 + **[QA | Тестирование ПО](https://www.youtube.com/playlist?list=PLuEo4W0EBxtXzWG6fAy6uQ1BtdYK-w8yN)**
-+ **[QA Fest 2018](https://www.youtube.com/playlist?list=PLuOBDBq7MW73zWBY2FX2SQXyOCJWFDq2U)**
++ **[Не все так плохо. Выстраиваем регрессионное тестирование на проекте где нет документации](https://vimeo.com/303145091)**
+
 
 ---------------------------------------------------------
 
