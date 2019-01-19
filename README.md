@@ -55,11 +55,22 @@
 
 + **[Качество и Тестирование ПО (весна 2015)](https://www.youtube.com/playlist?list=PLrCZzMib1e9pDKLsabJYuODdVJrHYc4Jd)**: Курс "Методы обеспечения качества и тестирования web-приложений".
 + **[Школа автоматизации процессов разработки 2014](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR)**: Тестировщики Яндекса очень любят автоматизацию. Их богатый опыт положен в основу программы Школы автоматизации процессов разработки, открытой в питерском офисе.
-+ **[Testing-1](https://www.youtube.com/playlist?list=PLU-TUGRFxOHiD6RQ8KI6ZfjIkveiSzBAK)**: Методы тестирования.
-+ **[Testing-3](https://www.youtube.com/playlist?list=PLU-TUGRFxOHhRhoHJfZ-xqnRvkKhE7gA8)**: Методика тестирования.
-+ **[Testing-4](https://www.youtube.com/playlist?list=PLU-TUGRFxOHgGzXph44nkanfGFz7c6Ztm)**: Оформление багов.
-+ **[Testing-5](https://www.youtube.com/playlist?list=PLU-TUGRFxOHh5XXwxXRT8gR9YcUS42cw7)**: Методы проектирования тестов.
-+ **[Testing-N](https://www.youtube.com/playlist?list=PLU-TUGRFxOHhSlreTx-IfjruAaGSni5u8)**: Боекомплект тестировщика.
++ **[Testing-1: Введение](https://www.youtube.com/watch?v=_nAogrllFtc&list=PLU-TUGRFxOHgEwy29NNxZ830EXp77mG4M)**
++ **[Testing-2: Методологии разработки ПО](https://www.youtube.com/watch?v=bAYgi8HPbrU&list=PLU-TUGRFxOHikyw9vfDJeVdg_05rzCL1l)**
++ **[Testing-3: Классификация видов тестирования](https://www.youtube.com/watch?v=IVhvx1GgM_M&list=PLU-TUGRFxOHiirUWFyiO6tj8CLzna06Q9)**
++ **[Testing-4: Процесс разработки тестов](https://www.youtube.com/watch?v=jcUP90AB9IU&list=PLU-TUGRFxOHgdfuCLo3_xjAFCLwOtg8Fp)**
++ **[Testing-5: Методы проектирования тестов](https://www.youtube.com/watch?v=duJSIdQlrDM&list=PLU-TUGRFxOHh5XXwxXRT8gR9YcUS42cw7)**
++ **[Testing-6: Методы проектирования тестов](https://www.youtube.com/watch?v=l_fXdCRH84k&list=PLU-TUGRFxOHjAMDYAnW5FcvItu17eRS7i)**
++ **[Testing 7: Инструменты тестирования](https://www.youtube.com/watch?v=sqWH0VqE4e4&list=PLU-TUGRFxOHibhFsiZPU6nr2v3Zu_mEcE)**
++ **[Testing-8: Багрепорты](https://www.youtube.com/watch?v=79jlNy-iZno&list=PLU-TUGRFxOHgB7ZtKR6YuEOuuBrdcsXRt)**
++ **[Testing-9: Боекомплект тестировщика](https://www.youtube.com/watch?v=UuRkx07FL9U&list=PLU-TUGRFxOHhSlreTx-IfjruAaGSni5u8)**
++ **[Testing 10: Архитектура веб-приложения](https://www.youtube.com/watch?v=9NrIDr1Bpw0&list=PLU-TUGRFxOHj90VaFFERWFemGSZ9s5auM)**
++ **[Testing 10: Архитектура веб-приложения](https://www.youtube.com/watch?v=9NrIDr1Bpw0&list=PLU-TUGRFxOHj90VaFFERWFemGSZ9s5auM)**
++ **[Testing-11: Инструменты тестирования](https://www.youtube.com/watch?v=bGi9Rv1De8c&list=PLU-TUGRFxOHhjD7ak3ko-d3ajtda92LPS)**
++ **[Testing-12: Инструменты тестирования. Базы](https://www.youtube.com/watch?v=YCI2sna3nkI&list=PLU-TUGRFxOHg-jA2Hd6jA68ZcveeFMvVU)**
++ **[Testing 13: Инструменты тестирования. API](https://www.youtube.com/watch?v=th5gqN-b8Z0&list=PLU-TUGRFxOHh93EzZE_DWoebLn5nrHY1b)**
++ **[Testing-14: Инструменты тестирования](https://www.youtube.com/watch?v=pBPvllK41zM&list=PLU-TUGRFxOHj-OOP8MTYVfupvEtq1AwvW)**
++ **[Testing 15: Плюсы и минусы автоматизации](https://www.youtube.com/watch?v=wLiOslE9xgs&list=PLU-TUGRFxOHjeQZ0W5hX1ujbA9cIFbfdz)**
 + **[Паттерны и антипаттерны обоснования багов](https://www.youtube.com/watch?v=Iju5EKXNjF0&feature=youtu.be)**
 + **[Тест-анализ на основе состояний и переходов](https://www.youtube.com/watch?time_continue=1664&v=8H9HgjrwQHA)**
 + **[Тест-дизайн на примере треугольника](https://www.youtube.com/watch?v=4PgrF-n80KE)**
