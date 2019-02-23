@@ -50,10 +50,10 @@
 + **[Пирамида тестов на практике](https://habr.com/post/358950/)**
 + **[Антипаттерны тестирования ПО](https://habr.com/post/358178/)**
 + **[TOП-10. Разбор лучших докладов в свободном доступе. Heisenbug 2017 Moscow](https://habrahabr.ru/company/jugru/blog/349144/)**
-+ **[Паттерны и антипаттерны обоснования задач](https://habr.com/ru/post/434522/)**Î
-+ **[7 принципов тестирования. Часть 1](https://www.luxoft-training.ru/blog/veni_vidi_vickie/534.html)**Î
-+ **[7 принципов тестирования. Часть 2](https://www.luxoft-training.ru/about/news/7_printsipov_testirovaniya_CHast_2/)**Î
-+ **[7 принципов тестирования. Часть 3](https://www.luxoft-training.ru/blog/veni_vidi_vickie/541.html)**Î
++ **[Паттерны и антипаттерны обоснования задач](https://habr.com/ru/post/434522/)**
++ **[7 принципов тестирования. Часть 1](https://www.luxoft-training.ru/blog/veni_vidi_vickie/534.html)**
++ **[7 принципов тестирования. Часть 2](https://www.luxoft-training.ru/about/news/7_printsipov_testirovaniya_CHast_2/)**
++ **[7 принципов тестирования. Часть 3](https://www.luxoft-training.ru/blog/veni_vidi_vickie/541.html)**
 
 ---------------------------------------------------------
 
