@@ -119,6 +119,8 @@
 + **[Генератор случайных личностей](https://randus.org/)**
 + **[Временная одноразовая почта](https://temp-mail.ru/)**
 + **[Калькулятор ИНН-КПП](https://mobobe.com/wp-uploads/inn_ogrn/inn_ogrn.htm)**
++ **[Online random file generator](https://pinetools.com/random-file-generator)**
++ **[Fake file generator](https://www.fakefilegenerator.com/generate-file.php)**
 
 ---------------------------------------------------------
 
