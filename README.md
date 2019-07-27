@@ -13,14 +13,16 @@
 + **[Джеймс Уиттакер, Джейсон Арбон, Джефф Каролло "Как тестируют в Google"](https://mybook.ru/author/dzhejms-uittaker/kak-testiruyut-v-google/)**: В книге описано тестирование программных продуктов в Google: как устроены процессы, как организованы команды, какие техники используются, кто ответственен за качество. Принципы, на которых построено тестирование в Google, применимы в проектах и компаниях любого размера. Авторы книги сами работали над продуктами Google, создавая инструменты тестирования, настраивая процессы и занимаясь непосредственно тестированием. Книга рассчитана на профессионалов из индустрии разработки программного обеспечения: специалистов по тестированию, программистов, менеджеров.
 + **[Роберт Калбертсон, Крис Браун, Гэри Кобб "Быстрое тестирование"](https://www.ozon.ru/context/detail/id/1219909/)**: Жесткая и серьезная конкуренция на рынке готового программного обеспечения (ПО) заставляет искать способы, целью которых является как минимизация сроков разработки новых продуктов, так и повышение их надежности. Как известно, высокое качество и надежность гарантирует адекватно выполненное тестирование. Технология быстрого тестирования находит `золотую середину` между соблюдением сроков и гарантией высокого качества. Описанию этой технологии и посвящена книга. Книга написана с учетом громадного опыта работы авторов в области тестирования ПО. Она окажет несомненную пользу всем специалистам, которые работают как в крупных, так и в небольших организациях, занимающихся созданием ПО.
 + **[Рекс Блэк "Ключевые процессы тестирования. Планирование, подготовка, проведение, совершенствование"](https://www.ozon.ru/context/detail/id/2816263/)**: В этой книге Рекс Блэк, опираясь на свой богатый опыт, выделяет двенадцать процессов тестирования, являющихся ключевыми для достижения успеха. За описанием каждого из этих процессов следует отменно выстроенный пример использования процесса в различных организационных, операционных и технологических условиях. Вместо громоздких правил представлены списки контрольных вопросов - легкие, гибкие инструменты для внедрения тестирования, ориентированного на процесс, для сбора измерений и внесения последовательных изменений.
-+ **[Алистер Коберн."Современные методы описания функциональных требований к системам"](https://www.chitai-gorod.ru/catalog/book/1031983/?utm_source=LiveLib&utm_medium=cpc&utm_campaign=books)**: Практика создания вариантов использования как средств уточнения требований к поведению программных систем и бизнес процессов быстро завоевывает популярность. Варианты использования обеспечивают эффективное планирования проекта, показывая, как будет применяться будущая система. На первый взгляд идея вариантов использования кажется простой. Однако, разработчиков ждет трудная задача: приступая к созданию набора вариантов использования, необходимо выяснить, насколько точными они должны быть.  
++ **[Алистер Коберн."Современные методы описания функциональных требований к системам"](https://www.chitai-gorod.ru/catalog/book/1031983/)**: Практика создания вариантов использования как средств уточнения требований к поведению программных систем и бизнес процессов быстро завоевывает популярность. Варианты использования обеспечивают эффективное планирования проекта, показывая, как будет применяться будущая система. На первый взгляд идея вариантов использования кажется простой. Однако, разработчиков ждет трудная задача: приступая к созданию набора вариантов использования, необходимо выяснить, насколько точными они должны быть.  
 Данная книга эксперта по объектной технологии Алистера Коберна служит новейшим практическим руководством по написанию вариантов использования. Богатый опыт в этой области помогает автору расширить классическое толкование вариантов использования. В книге представлены начальная, промежуточная и развитая концепции, поэтому она подходит читателям с разным уровнем подготовки. Инструкции подкреплены наглядными примерами и упражнениями.
++ **[Джанет Грегори и Лайза Криспин."Agile-тестирование. Обучающий курс для всей команды"](https://www.mann-ivanov-ferber.ru/books/agile-testirovanie/)**: Подробное пособие по тестированию в Agile — лучшие практики, примеры из опыта авторов, масштабирование процессов, автоматизация тестирования.  
+Джанет Грегори и Лиза Криспин — эксперты в теме тестирования в agile. Еще в 2009 году они написали книгу Agile, а теперь выпустили новую, в которой рассмотрели не только все основные вопросы, но и новые практики, а также учли вопросы от тестировщиков, которые к ним поступали в течение последних лет.  
 
 ---------------------------------------------------------
 
 ## Статьи
 
-+ **[Классификация видов тестирования](https://habrahabr.ru/company/npo-comp/blog/223833/)**
++ **[Классификация видов тестирования](https://habr.com/ru/company/npo-comp/blog/223833/)**
 + **[Позитивное и негативное тестирование](http://okiseleva.blogspot.ru/2014/02/blog-post_10.html)**
 + **[Что такое тест-кейс и как его писать](http://okiseleva.blogspot.ru/2014/08/blog-post.html)**
 + **[Классы эквивалентности: будни Золушки](http://okiseleva.blogspot.ru/2015/07/blog-post_87.html)**
@@ -34,7 +36,6 @@
 + **[Шаблон улучшения](http://okiseleva.blogspot.ru/2015/10/blog-post_16.html)**
 + **[Как составлять вариант использования](http://okiseleva.blogspot.ru/2015/11/blog-post_86.html)**
 + **[Сообщения об ошибках — тоже документация, тестируйте их](http://okiseleva.blogspot.ru/2015/06/blog-post_8.html)**
-+ **[Работа над ошибками малой кровью](http://russian.joelonsoftware.com/Articles/PainlessBugTracking.html)**
 + **[TOP 13 ошибок тестировщиков. Часть I. Требования, Тест-кейсы](http://www.software-testing.ru/library/5-testing/66-top-13----i----)**
 + **[TOP 13 ошибок тестировщиков. Часть II. Управление ошибками](http://www.software-testing.ru/library/8-bug-tracking/65-top-13-ii-)**
 + **[Певца попросят спеть](https://testitquickly.com/2010/10/15/ratiunea-cheama-ajutoare/)**
@@ -76,7 +77,10 @@
 + **[Testing - 12: Инструменты тестирования. Базы](https://www.youtube.com/watch?v=YCI2sna3nkI&list=PLU-TUGRFxOHg-jA2Hd6jA68ZcveeFMvVU)**
 + **[Testing - 13: Инструменты тестирования. API](https://www.youtube.com/watch?v=th5gqN-b8Z0&list=PLU-TUGRFxOHh93EzZE_DWoebLn5nrHY1b)**
 + **[Testing - 14: Инструменты тестирования](https://www.youtube.com/watch?v=pBPvllK41zM&list=PLU-TUGRFxOHj-OOP8MTYVfupvEtq1AwvW)**
-+ **[Testing - 15: Плюсы и минусы автоматизации](https://www.youtube.com/watch?v=wLiOslE9xgs&list=PLU-TUGRFxOHjeQZ0W5hX1ujbA9cIFbfdz)**
++ **[Testing - 15: Инструменты тестирования. Git](https://www.youtube.com/playlist?list=PLU-TUGRFxOHjI2erCCPtxyehn-Grwusby)**
++ **[Testing - 16: Плюсы и минусы автоматизации](https://www.youtube.com/watch?v=wLiOslE9xgs&list=PLU-TUGRFxOHjeQZ0W5hX1ujbA9cIFbfdz)**
++ **[Testing - 17: Автоматизация. Инструменты, правила и рекомендации](https://www.youtube.com/playlist?list=PLU-TUGRFxOHgBGleXvimSlwKDqYSZrTvB)**
++ **[Testing - 18: CI](https://www.youtube.com/playlist?list=PLU-TUGRFxOHjKcL_XLSwoiLm598GAzDWT)**
 + **[Паттерны и антипаттерны обоснования багов](https://www.youtube.com/watch?v=Iju5EKXNjF0&feature=youtu.be)**
 + **[Тест-анализ на основе состояний и переходов](https://www.youtube.com/watch?time_continue=1664&v=8H9HgjrwQHA)**
 + **[Тест-дизайн на примере треугольника](https://www.youtube.com/watch?v=4PgrF-n80KE)**
@@ -85,6 +89,8 @@
 + **[Heisenbug 2016 Moscow](https://www.youtube.com/playlist?list=PLsVTVVvrKX9tLKqDQ2Ab8lBgWnTc_iHRN)**
 + **[Heisenbug 2017 Piter](https://www.youtube.com/playlist?list=PLsVTVVvrKX9t7a0_KpweUSfEt7XeRDzM-)**
 + **[Heisenbug 2017 Moscow: лучшее](https://www.youtube.com/playlist?list=PLsVTVVvrKX9tkmqfzDfdzv4I5NlPZYD6P)**
++ **[Heisenbug 2018 Piter лучшее](https://www.youtube.com/playlist?list=PLsVTVVvrKX9tOLiErv6ySkb34y6Qc0ixp)**
++ **[Heisenbug 2018 Moscow лучшее](https://www.youtube.com/playlist?list=PLsVTVVvrKX9vLSmWzEP77TSgZG1lZK76p)**
 + **[QA Fest 2017](https://www.youtube.com/playlist?list=PLuOBDBq7MW73roEVm9vHTW24pUS4jTQ1Q)**
 + **[QA Fest 2018](https://www.youtube.com/playlist?list=PLuOBDBq7MW73zWBY2FX2SQXyOCJWFDq2U)**
 + **[SELENIUM CAMP 2018](https://www.youtube.com/playlist?list=PLa7q-VITePQVeaNc1fm-Ue7fa9XOaGKpt)**
@@ -96,8 +102,8 @@
 
 ## Подкасты
 
-+ **[Radio QA](https://itunes.apple.com/podcast/radio-qa/id1021236121?mt=2)**: [radio-qa.com](http://radio-qa.com/)
-+ **[QA Guild Podcast](https://soundcloud.com/user-986844915)**: [automation-remarks.com](http://automation-remarks.com/podcast/)
++ **[Radio QA](https://podcasts.apple.com/podcast/radio-qa/id1021236121)**: [radio-qa.com](http://radio-qa.com/)
++ **[QA Guild Podcast](https://podcasts.apple.com/ru/podcast/qa-guild-podcast/id1350668092?l=uk)**: [automation-remarks.com](http://automation-remarks.com)
 
 ---------------------------------------------------------
 
@@ -112,12 +118,14 @@
 + **[XMind](http://www.xmind.net/download/)**: Программа для создание интеллект-карт.
 + **[Joxi](http://joxi.ru/download/)**: Программа для создание скриншотов.
 + **[Jing](https://www.techsmith.com/download/jing/)**: Программа для создание скриншотов.
++ **[Скриншотер Mail.Ru](https://screenshot.mail.ru)**: Программа для создание скриншотов.
 + **[Recordit](http://www.recordit.co/)**: Программа для быстрой записи анимированных скринкастов.
 + **[Fiddler](https://www.telerik.com/download/fiddler)**: Прокси, который работает с трафиком между вашим компьютером и удаленным сервером, и позволяет просматривать и менять его.
 + **[Insomnia](https://insomnia.rest/download/)**: REST API клиент.
++ **[Postman](https://www.getpostman-beta.com/downloads/)**: REST API клиент.
 + **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**: Программный продукт виртуализации для операционных систем Microsoft Windows, Linux, FreeBSD, macOS, Solaris/OpenSolaris, ReactOS, DOS и других.
 + **[Генератор случайных личностей](https://randus.org/)**
-+ **[Временная одноразовая почта](https://temp-mail.ru/)**
++ **[Временная одноразовая почта](https://temp-mail.org/ru/)**
 + **[Калькулятор ИНН-КПП](https://mobobe.com/wp-uploads/inn_ogrn/inn_ogrn.htm)**
 + **[Online random file generator](https://pinetools.com/random-file-generator)**
 + **[Fake file generator](https://www.fakefilegenerator.com/generate-file.php)**
@@ -131,7 +139,6 @@
 + **[automated-testing.info](https://t.me/atinfo)** at.info - самое большое, активное и качественное сообщество автоматизаторов, которое делится опытом, навыками и экспертизой, а не просто потребляет информацию и ничего не хочет вносить взамен.
 + **[QA — русскоговорящее сообщество](https://t.me/qa_ru)**: Общаемся про все виды тестирования и автоматизации.
 + **[QA Channel](https://t.me/qa_channel)**: Разноплановая информация для тестеров.
-+ **[Серьезный тестировщик](https://t.me/serious_tester)**: Канал для тестировщиков и QA с полезными статьями и смешными гифками.
 + **[QA - автоматизация](https://t.me/qa_automation)**: Обсуждение технологий автоматизированного тестирования. Помощь начинающим.
 + **[Протестировал](https://t.me/sqaunderhood)**: Фильтрованный контент о тестировании и качестве ПО.
 + **[Radio-QA](https://t.me/radioqa)**: Подкаст тестировщиков.
