@@ -96,6 +96,8 @@
 + **[SELENIUM CAMP 2018](https://www.youtube.com/playlist?list=PLa7q-VITePQVeaNc1fm-Ue7fa9XOaGKpt)**
 + **[QA | Тестирование ПО](https://www.youtube.com/playlist?list=PLuEo4W0EBxtXzWG6fAy6uQ1BtdYK-w8yN)**
 + **[Не все так плохо. Выстраиваем регрессионное тестирование на проекте где нет документации](https://vimeo.com/303145091)**
++ **[Курс Тестирование ПО с нуля](https://www.youtube.com/playlist?list=PLRs8EELOYKc7DYIQixlV1s4EH5SR3TdNB)**
++ **[QA | Тестирование ПО](https://www.youtube.com/playlist?list=PLuEo4W0EBxtXzWG6fAy6uQ1BtdYK-w8yN)**
 
 
 ---------------------------------------------------------
