@@ -152,5 +152,6 @@
 + **[Жизнь - это движение! А тестирование - это жизнь :)](http://okiseleva.blogspot.ru/)**
 + **[QA — грамотно](https://testitquickly.com/)**
 + **[automation-remarks.com](https://t.me/automation_remarks)**
++ **[О тестировании...](https://vk.com/club182496589)**
 + **[ОНЛАЙН КУРСЫ ТЕСТИРОВЩИКОВ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ - 2018](https://www.portnov.com/2018)**
 + **[DevTube — open source-агрегатор видеоматериалов для разработчиков](https://dev.tube)**
